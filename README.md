@@ -1,1 +1,1 @@
-# ccminer
+chmod +x ccminer start.sh
